@@ -1,5 +1,0 @@
-{
-  "routes": [
-    { "src": "/(.*)", "dest": "https://nweoo-staging.netlify.app/$1" }
-  ]
-}
