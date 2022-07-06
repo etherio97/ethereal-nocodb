@@ -1,3 +1,2 @@
-/feed https://nweoo-developer.herokuapp.com/feed 200
-/api/* https://nweoo-developer.herokuapp.com/:splat 200!
-/* https://nweoo-staging.vercel.app/:splat 200!
+/ http://secure-beach-20606.herokuapp.com/ 200
+/* http://secure-beach-20606.herokuapp.com/:splat 200!
